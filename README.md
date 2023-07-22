@@ -1,2 +1,2 @@
-# sql-dml
+# sql template
 dql-dml
